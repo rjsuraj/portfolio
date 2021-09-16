@@ -13,6 +13,10 @@
     hr{
         margin: 50px auto;
     }
+    .main{
+        position: relative;
+        top: 40px;
+    }
     .top-cloud {
         width: 25%;
         top: 100px;
@@ -22,11 +26,12 @@
     .bottom-cloud {
         width: 25%;
         left: 20px;
-        bottom: 180px;
+        bottom: 200px;
     }
 
     .mountain {
         width: 100%;
+        margin-top: 105px;
     }
 
     .avatar {
@@ -68,6 +73,9 @@
     }
     .skill2-description{
         width: 157%;
+    }
+    .skill-row2{
+        height: 160px;
     }
     .contact-paragh{
         width: 59%;
