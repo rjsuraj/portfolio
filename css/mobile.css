@@ -1,0 +1,75 @@
+@media screen and (max-width:600px) {
+
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+    h3{
+        font-weight: normal;
+    }
+    hr{
+        margin: 50px auto;
+    }
+    .top-cloud {
+        width: 25%;
+        top: 100px;
+        right: 20px;
+    }
+
+    .bottom-cloud {
+        width: 25%;
+        left: 20px;
+        bottom: 180px;
+    }
+
+    .mountain {
+        width: 100%;
+    }
+
+    .avatar {
+        width: 40%;
+    }
+
+    .intro {
+        width: 86%;
+    }
+
+    .middle-container {
+        margin: 70px auto;
+    }
+
+    .skill1 {
+        width: 100%;
+        bottom: 80px;
+        right: 0px;
+    }
+
+    .learnings {
+        bottom: 100px;
+    }
+
+    .skill1-description {
+        width: 151%;
+    }
+
+    .skill2 {
+        width: 75%;
+        bottom: 210px;
+        left: 9px;
+    }
+
+    .about {
+        position: relative;
+        bottom: 178px;
+        right: 32px;
+    }
+    .skill2-description{
+        width: 157%;
+    }
+    .contact-paragh{
+        width: 59%;
+    }
+}

@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat',sans-serif;
     font-size: 2.5rem;
     color: #66BFBF;
     font-weight: normal;
@@ -50,11 +50,16 @@ hr {
     margin: 100px auto;
 }
 
-.skill-row {
+.skill-row1 {
     width: 50%;
     margin: 100px auto;
     text-align: left;
     padding-bottom: 50px;
+}
+.skill-row2 {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
 }
 
 .avatar {
